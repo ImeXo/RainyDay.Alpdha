@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -232,7 +232,7 @@
 				};
 			};
 			buildConfigurationList = F27D2EAB1D5014C30018C0B7 /* Build configuration list for PBXProject "RainyDay" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
